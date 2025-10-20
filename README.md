@@ -10,7 +10,7 @@ A machine learning-powered web application that predicts whether a loan applicat
 - 📱 User-friendly Input Forms
 - 📑 Detailed Prediction Results 
 
-## 📁 Project Structure 
+## 📁 Project Structure  
 ``` 
 loan-status-predictor-svm/  
 ├── 📝 app.py                                      # Streamlit web application
