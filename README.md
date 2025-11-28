@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts whether a loan applicat
 
 ## ✨ Features
 - 🤖 Machine Learning Model: SVM-based classification
-- 🌐 Interactive Web Interface using Streamlit
+- 🌐 Interactive Web Interface using Streamlit 
 - 📊 Data Visualization and Analysis
 - 📈 Model Performance Metrics
 - 📱 User-friendly Input Forms
