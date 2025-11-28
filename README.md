@@ -11,7 +11,7 @@ A machine learning-powered web application that predicts whether a loan applicat
 - 📑 Detailed Prediction Results 
 
 ## 📁 Project Structure  
-``` 
+```  
 loan-status-predictor-svm/  
 ├── 📝 app.py                                      # Streamlit web application
 ├── 📝 loan_status_prediction_using_support_vector_machine.py  # Core ML model implementation
