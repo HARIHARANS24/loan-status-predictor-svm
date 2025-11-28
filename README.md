@@ -8,7 +8,7 @@ A machine learning-powered web application that predicts whether a loan applicat
 - 📊 Data Visualization and Analysis
 - 📈 Model Performance Metrics
 - 📱 User-friendly Input Forms
-- 📑 Detailed Prediction Results 
+- 📑 Detailed Prediction Results  
 
 ## 📁 Project Structure  
 ```  
