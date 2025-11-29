@@ -7,7 +7,7 @@ A machine learning-powered web application that predicts whether a loan applicat
 - 🌐 Interactive Web Interface using Streamlit 
 - 📊 Data Visualization and Analysis
 - 📈 Model Performance Metrics
-- 📱 User-friendly Input Forms 
+- 📱 User-friendly Input Forms  
 - 📑 Detailed Prediction Results   
 
 ## 📁 Project Structure  
