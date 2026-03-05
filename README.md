@@ -12,12 +12,15 @@ A machine learning-powered web application that predicts whether a loan applicat
 
 ## 📁 Project Structure   
 ```   
-loan-status-predictor-svm/   
-├── 📝 app.py                                      # Streamlit web application
-├── 📝 loan_status_prediction_using_support_vector_machine.py  # Core ML model implementation
-├── 📝 Loan_Status_Prediction_using_Support_Vector_Machine.ipynb  # Jupyter notebook for analysis
-├── 📝 dataset.csv                                # Training and testing dataset
-└── 📝 requirements.txt                           # Project dependencies
+Directory structure:
+└── hariharans24-loan-status-predictor-svm/
+    ├── README.md
+    ├── app.py
+    ├── dataset.csv
+    ├── LICENSE
+    ├── Loan_Status_Prediction_using_Support_Vector_Machine.ipynb
+    ├── loan_status_prediction_using_support_vector_machine.py
+    └── requirements.txt
 ```
 
 ## 🚀 Installation
